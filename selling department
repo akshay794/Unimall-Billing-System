@@ -1,0 +1,15 @@
+selling department
+
+
+void main()
+{
+printf("Customer Name")
+
+printf("Customer phone no-")
+
+printf("Customer address")
+
+printf("item name \t \t price")
+
+getch();
+}
